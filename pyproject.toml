@@ -1,6 +1,6 @@
 [project]
 name = "fact"
-version = "1.0.0"
+version = "2.0.1"
 description = "Example Python project using best practices"
 authors = [
     { name = "John Hagen", email = "johnthagen@users.noreply.github.com" }]
